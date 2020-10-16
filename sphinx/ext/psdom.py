@@ -2,8 +2,10 @@
 """
     The Percona Server domain.
 
-    :copyright: Copyright 2011 by Percona Inc.
+    :copyright: Copyright 2011-2020 by Percona Inc.
     :license: GPL3, see LICENSE for details.
+
+    For Sphinx 3.1
 """
 
 import re
